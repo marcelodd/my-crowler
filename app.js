@@ -159,6 +159,8 @@ function tranformHTML(html) {
             cofins.push(_cofins);
         });
 
+        
+
         return {
             descricao: descricao,
             ncm: ncm,
